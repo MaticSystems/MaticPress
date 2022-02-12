@@ -1,1 +1,3 @@
 # MaticPress
+
+🇫🇷 - Projet français.
