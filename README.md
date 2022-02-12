@@ -1,3 +1,3 @@
 # MaticPress
 
-🇫🇷 - Projet français.
+Votre dose d'information journalière 🇫🇷
